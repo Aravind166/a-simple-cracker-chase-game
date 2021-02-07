@@ -1,4 +1,3 @@
-# EG16-11 Complete Game
 
 import pygame
 
