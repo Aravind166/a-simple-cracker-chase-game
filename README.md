@@ -1,0 +1,2 @@
+# a-simple-cracker-chase-game
+I have Done a Small game in Python and because Writing games is a great fun . Unlike “proper” programs , games are not always tied to a formal specification and don’t need to do anything useful . They just must be fun to play . Games are a great place to experiment with your software to check whether it works or not Its pretty much like a self evaluation Process by ourself . You can write code just to see what happens when it runs , and see whether the result is interesting .
