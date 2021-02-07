@@ -6,11 +6,11 @@ I have Done a Small game in Python and because Writing games is a great fun . Un
 
 I'm Saying  :
 
-Dont worry about whether yOur GAME IS complex or simple 
-When you write a game, you control the universe
-Using “artificial intelligence” makes games much more interesting
-When you write a game, you can always cheat
-Don’t worry about making the graphics hardware work for you
-Make sure you tell people how to play your game
-Adding a high score makes a game much more interesting
-Always make a playable game
+Dont worry about whether yOur GAME IS complex or simple.
+When you write a game, you control the universe.
+Using “artificial intelligence” makes games much more interesting.
+When you write a game, you can always cheat.
+Don’t worry about making the graphics hardware work for you.
+Make sure you tell people how to play your game.
+Adding a high score makes a game much more interesting.
+Always make a playable game.
